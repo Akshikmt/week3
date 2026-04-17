@@ -11,17 +11,17 @@ Choosing the right crop and fertilizer is challenging due to lack of proper know
 
 This web application takes user input such as:
 
-Nitrogen (N),
-Phosphorus (P),
-Potassium (K),
-Temperature,
-Humidity,
-Rainfall
+- Nitrogen (N)
+- Phosphorus (P) 
+- Potassium (K)  
+- Temperature  
+- Humidity  
+- Rainfall
 
 And provides:
 
-🌾 Recommended crop
-🧪 Suitable fertilizer
+-🌾 Recommended crop
+-🧪 Suitable fertilizer
 
 
 
