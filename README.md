@@ -20,8 +20,8 @@ This web application takes user input such as:
 
 And provides:
 
--🌾 Recommended crop
--🧪 Suitable fertilizer
+- 🌾 Recommended crop
+- 🧪 Suitable fertilizer
 
 
 
@@ -33,16 +33,17 @@ And provides:
 
 ## **⚙️ Features**
 
-User-friendly web interface
-Real-time predictions
-Integrated crop & fertilizer models
-Fast and accurate results
+- User-friendly web interface
+- Real-time predictions
+- Integrated crop & fertilizer models
+- Fast and accurate results
 
 ## **🛠️ Tech Stack**
-Frontend: HTML, CSS, JavaScript
-Backend: Python, Flask
-ML Libraries: Pandas, NumPy, Scikit-learn
-Deployment: Render
+
+- Frontend: HTML, CSS, JavaScript
+- Backend: Python, Flask
+- ML Libraries: Pandas, NumPy, Scikit-learn
+- Deployment: Render
 
 ## **📂 Project Structure**
 ├── app.py
@@ -54,19 +55,22 @@ Deployment: Render
 ├── static/
 └── requirements.txt
 
+
 ## **🚀 How It Works**
-User enters soil and environmental data on the web page
-Data is sent to the Flask backend
-ML models process the input
-The system displays:
-Recommended crop
-Suggested fertilizer
+
+- User enters soil and environmental data on the web page
+- Data is sent to the Flask backend
+- ML models process the input
+- The system displays:
+- Recommended crop
+- Suggested fertilizer
 
 ## **🎯 Future Improvements**
-Add real-time weather API integration
-Improve model accuracy
-Mobile-friendly UI
-Multi-language support
+
+- Add real-time weather API integration
+- Improve model accuracy
+- Mobile-friendly UI
+- Multi-language support
 
 ## **👩‍💻 Author**
 
