@@ -1,13 +1,13 @@
 # **🌱 Crop & Fertilizer Recommendation System**
-📌 Introduction
+## **📌 Introduction**
 
 This project is a Machine Learning-based web application that recommends the most suitable crop and fertilizer based on soil nutrients and environmental conditions. The system is designed to assist farmers and users in making better agricultural decisions.
 
-❗ Problem Statement
+## **❗ Problem Statement**
 
 Choosing the right crop and fertilizer is challenging due to lack of proper knowledge about soil conditions and environmental factors. This often results in low productivity and inefficient farming.
 
-💡 Solution
+## **💡 Solution**
 
 This web application takes user input such as:
 
@@ -20,21 +20,25 @@ And provides:
 
 🌾 Recommended crop
 🧪 Suitable fertilizer
-🌐 Live Web App
+
+## **🌐 Live Web App**
 
 🔗 [Add your deployed link here]
 
-⚙️ Features
+## **⚙️ Features**
+
 User-friendly web interface
 Real-time predictions
 Integrated crop & fertilizer models
 Fast and accurate results
-🛠️ Tech Stack
+
+## **🛠️ Tech Stack**
 Frontend: HTML, CSS, JavaScript
 Backend: Python, Flask
 ML Libraries: Pandas, NumPy, Scikit-learn
 Deployment: Render
-📂 Project Structure
+
+## **📂 Project Structure**
 ├── app.py
 ├── model/
 │   ├── crop_model.pkl
@@ -43,25 +47,21 @@ Deployment: Render
 │   └── index.html
 ├── static/
 └── requirements.txt
-🚀 How It Works
+
+## **🚀 How It Works**
 User enters soil and environmental data on the web page
 Data is sent to the Flask backend
 ML models process the input
 The system displays:
 Recommended crop
 Suggested fertilizer
-▶️ Run Locally
-pip install -r requirements.txt
-python app.py
 
-Then open:
-
-http://127.0.0.1:5000
-🎯 Future Improvements
+## **🎯 Future Improvements**
 Add real-time weather API integration
 Improve model accuracy
 Mobile-friendly UI
 Multi-language support
-👩‍💻 Author
+
+## **👩‍💻 Author**
 
 Akshita Kumawat
