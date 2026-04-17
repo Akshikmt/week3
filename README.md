@@ -1,4 +1,4 @@
-#🌱 Crop & Fertilizer Recommendation System (Web App)
+# **🌱 Crop & Fertilizer Recommendation System**
 📌 Introduction
 
 This project is a Machine Learning-based web application that recommends the most suitable crop and fertilizer based on soil nutrients and environmental conditions. The system is designed to assist farmers and users in making better agricultural decisions.
